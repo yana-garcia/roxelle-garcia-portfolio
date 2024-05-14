@@ -59,6 +59,14 @@ body {
 	margin-bottom: 1%;
 }
 
+.profile-nav {
+	/* height: 50px; */
+	width: 100%;
+	margin: auto;
+	display: block;
+	margin-bottom: 1%;
+}
+
 .main-cv {
 	padding: 2% 8% 0 8%;
 }
