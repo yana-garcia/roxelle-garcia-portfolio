@@ -71,8 +71,12 @@ body {
 	padding: 2% 8% 0 8%;
 }
 
+.main-profile {
+	padding-top: 10px;
+}
+
 .main-profile .intro {
-	font-size: 15px;
+	font-size: 20px;
 	line-height: 1;
 }
 
@@ -80,6 +84,7 @@ body {
 	font-size: 13px;
 	color: #ffffff;
 	line-height: 0.5;
+	padding-bottom: 25px;
 }
 
 .cv-property {
