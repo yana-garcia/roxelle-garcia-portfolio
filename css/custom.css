@@ -42,7 +42,7 @@ body {
 .main-about,
 .main {
 	padding-top: 5%;
-	height: 90vh;
+	height: 100vh;
 }
 
 .main-arrow-holder {
@@ -71,6 +71,17 @@ body {
 	padding: 2% 8% 0 8%;
 }
 
+.main-profile .intro {
+	font-size: 15px;
+	line-height: 1;
+}
+
+.main-profile .intro-body {
+	font-size: 13px;
+	color: #ffffff;
+	line-height: 0.5;
+}
+
 .cv-property {
 	width: 100%;
 }
@@ -82,7 +93,7 @@ body {
 
 .intro {
 	color: #ffffff;
-	font-size: 2em;
+	font-size: 25px;
 }
 
 .title {
